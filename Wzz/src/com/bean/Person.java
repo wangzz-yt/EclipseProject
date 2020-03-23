@@ -5,7 +5,7 @@ public class Person {
 	private int age;
 	
 	public String a;
-	public String b;
+	public String b; 
 	public String c;
 	public String d;
 	
